@@ -133,7 +133,7 @@ public class EricJeevanA {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ericjeevan4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://raw.githubusercontent.com/ericjeevan4/ericjeevan4/output/trophy.svg" />
 
 </div>
 
