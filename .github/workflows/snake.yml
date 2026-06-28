@@ -27,14 +27,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ericjeevan4
-          output_path: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: tokyonight
-          row: 1
-          column: 7
-          no-bg: true
-          no-frame: true
-          margin-w: 4
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
